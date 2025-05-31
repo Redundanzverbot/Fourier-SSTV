@@ -1,6 +1,8 @@
 Handy-App zum Empfangen des Tongemischs via Mikrofon:
 
 - Nur für Android Smartphones, keine ausführbare Datei verfügbar
-- Kalibrierung über den weißen Button, währenddessen codiertes weißes Bild abspielen
-- Nach beendeter Kalibrierung Aufnahme mit dem roten Button, währenddessen codiertes Ursprungsbild abspielen
-- Mögliche Fehlerquelle: Kein Zugriff auf das Mikrofon, dann manuelles Erlauben in den Einstellungen
+- Kalibrierung über den Button mit Buchstaben "K"
+- Aufnahme des jeweiligen Farbkanals, indem bestimmter Button angeklickt wird
+- Das zusammengsetzte Bild wird nach fertiger Berechnung des letzten Farbkanals angezeigt
+- Wenn mindestens ein Farbkanal aufgezeichnet wurde, dann wird ein Farbbild angezeigt, andernfalls Graustufen
+- Kalibrierung kann auch nach anderen Farbkanälen geschehen
