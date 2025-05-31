@@ -6,3 +6,5 @@ Handy-App zum Empfangen des Tongemischs via Mikrofon:
 - Das zusammengsetzte Bild wird nach fertiger Berechnung des letzten Farbkanals angezeigt
 - Wenn mindestens ein Farbkanal aufgezeichnet wurde, dann wird ein Farbbild angezeigt, andernfalls Graustufen
 - Kalibrierung kann auch nach anderen Farbkanälen geschehen
+
+Mögliche Fehlerquelle: Kein Zugriff auf das Mikrofon gewährt
